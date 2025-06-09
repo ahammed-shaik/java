@@ -25,7 +25,7 @@ public class BFSmatrix{
          {1,0,0,1},
          {0,1,1,0}
      };
-     System.out.println("BFS starting from 0:");
+     System.out.println("BFS starting from node 0:");
      bfs(adjMatrix,0);
      }
 }
